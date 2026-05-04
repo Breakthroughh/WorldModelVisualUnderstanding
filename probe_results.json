@@ -1,0 +1,8 @@
+{
+  "llava_layer": 16,
+  "n_images": 270,
+  "pairs_per_image": 200,
+  "llava_probe_accuracy": 0.8040615727002968,
+  "da_probe_accuracy": 0.595,
+  "chance": 0.5
+}
